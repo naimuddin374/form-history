@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "622516a21cb1ed1b789c3dfb"
+  },
+  "name": "Mr. Jon",
+  "email": "jon@gmail.com",
+  "password": "$2b$11$DFXQaYqjmmapQS0.zFRP.OIvS8HxRJNyMop6CiGnk9wfax6tBV196",
+  "createdAt": {
+    "$date": "2022-03-06T20:16:34.943Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-06T20:16:34.943Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62251a0dbdb916320467004e"
+  },
+  "name": "Mr Naim",
+  "email": "naim@gmail.com",
+  "password": "$2b$11$olX6DGqcueTUj5qft5nG0.BfBWAPvqWl5qkT6bAoBlrGeP1J53gku",
+  "createdAt": {
+    "$date": "2022-03-06T20:31:09.282Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-06T20:31:09.282Z"
+  },
+  "__v": 0
+}]

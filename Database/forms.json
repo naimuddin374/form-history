@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "622519091cb1ed1b789c3e1d"
+  },
+  "name": "Figtree Avenue & Grant Terrace",
+  "location": "Southeast Queensland, Australia",
+  "lat": 23.7613539,
+  "lon": 90.4358665,
+  "description": "Southeast Queensland, Australia update",
+  "createdBy": {
+    "$oid": "622516a21cb1ed1b789c3dfb"
+  },
+  "createdAt": {
+    "$date": "2022-03-06T20:26:49.373Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-06T20:30:43.898Z"
+  },
+  "__v": 0,
+  "updatedBy": {
+    "$oid": "622516a21cb1ed1b789c3dfb"
+  }
+},{
+  "_id": {
+    "$oid": "62251ad0bdb9163204670055"
+  },
+  "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+  "location": "Dhaka, Bangladesh",
+  "lat": 23.7609595,
+  "lon": 90.4068525,
+  "description": "Dhaka, Bangladesh",
+  "createdBy": {
+    "$oid": "62251a0dbdb916320467004e"
+  },
+  "createdAt": {
+    "$date": "2022-03-06T20:34:24.985Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-06T20:36:05.930Z"
+  },
+  "__v": 0,
+  "updatedBy": {
+    "$oid": "622516a21cb1ed1b789c3dfb"
+  }
+}]
